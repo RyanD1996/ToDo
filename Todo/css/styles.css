@@ -1,5 +1,5 @@
 body{
-  background-color: #eceff0;
+  background-color: #5CD895;
 }
 
 body, input{
@@ -25,7 +25,7 @@ a{
 }
 
 .list .header{
-  font-family: "Shadow Into Light Two", cursive;
+  font-family: "Lobster", cursive;
   margin: 0 0 10px 0;
 }
 

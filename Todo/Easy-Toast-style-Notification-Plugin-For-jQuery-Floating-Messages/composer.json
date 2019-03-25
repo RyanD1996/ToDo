@@ -1,0 +1,8 @@
+{
+    "name": "daniel-duarte/js-floating-messages",
+    "description": "Floating Messages jQuery Plugin",
+    "type": "library",
+    "license": "MIT",
+    "homepage": "https://github.com/daniel-duarte/jquery.floating-messages/blob/master/README.md",
+    "minimum-stability": "stable"
+}
